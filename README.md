@@ -12,21 +12,21 @@ Welcome to the Weather Forecast Web App! This project predicts the weather for t
 3. Responsive Design
    - The CSS ensures that the app looks great on various devices, from desktops to mobile phones.
 
-The CSS ensures that the app looks great on various devices, from desktops to mobile phones.
-Usage
-Clone the Repository
-Clone this repository to your local machine using git clone.
-API Keys
-Obtain API keys for the JSON and XML Weather API and the Geolocation Developer API.
-Replace the placeholders in the JavaScript code (main.js) with your actual API keys.
-Run the App
-Open index.html in your preferred web browser.
-Allow geolocation access when prompted.
-Enter a city name or coordinates in the search input to get weather forecasts.
-Acknowledgments
-Weather data provided by JSON and XML Weather API.
-Geolocation services by Geolocation Developer API.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-Feel free to customize this README to include additional details about your project. Happy forecasting! 🚀🌤️
+## Usage
+1. Clone the Repository
+   - ```
+     git clone https://github.com/GhanafiK/weather.git
+     ```
+2. API Keys
+   - Obtain API keys for the JSON and XML Weather API and the Geolocation Developer API.
+   - Get a free API Key at [weatherapi](https://www.weatherapi.com/)
+3. Run the App
+   - Open index.html in your preferred web browser.
+   - Allow geolocation access when prompted.
+   - Enter a city name or coordinates in the search input to get weather forecasts.
+
+
+## Acknowledgments
+* Weather data provided by JSON and XML Weather API.
+* Geolocation services by Geolocation Developer API.
